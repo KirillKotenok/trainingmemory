@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Training memory</string>
+    <string name="exit_btn">Exit Game</string>
+    <string name="retry_btn">Retry Game</string>
+    <string name="result">"Your score: %s\n\nDo you want to retry?"</string>
+    <string name="timer">Seconds remaining: %d</string>
+    <string name="end_text">"Your score: %s\n\nDo you want to retry?"</string>
+    <string name="score">Score: %d</string>
+</resources>
